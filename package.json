@@ -2,10 +2,10 @@
   "name": "foodorderingapp",
   "version": "1.0.0",
   "description": "a food order webapp",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "start": "parcel index.html ",
-    "build": "parcel build index.html",
+    "start": "parcel src/index.html ",
+    "build": "parcel build src/index.html",
     "test": "jest"
   },
   "author": "partha sarathi rautaray",
